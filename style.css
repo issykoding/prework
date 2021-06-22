@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+#second {color:blue
+}
+#first {color:red
+}
+#third {color:green
+}
+#fourth {font-size: 100px;
+}
+#fifth {font-size: 10px;
+}
+#sixth {text-align: center;
+}
+#seventh {font-weight: bolder;
+}
+#eight {font-family: Arial, Helvetica, sans-serif;
+}
+#ninth {color: orange; font-weight: bold; font-style: oblique; font-size: larger;
+}
+p.styledFont{color:turquoise;
+}
+img{border-image: auto; border-style: dotted; border-width: thick; border-color: purple;
+}
